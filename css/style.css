@@ -64,6 +64,10 @@ img {
   padding-right: 10px;
 }
 
+.download {
+  margin-bottom: 100px;
+}
+
 #portfolio h2 {
   padding-top: 100px;
   font-weight: bold;
@@ -106,4 +110,8 @@ footer img {
 .copyright {
   font-weight: bold;
   font-size: 15px;
+}
+
+footer {
+  /* background: #292d32; */
 }
