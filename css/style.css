@@ -1,8 +1,109 @@
 header {
-  max-width: 1170px;
-  margin: 0 auto;
+  background-color: #1abc9c;
 }
-main {
+
+.container-fluid {
+  margin: auto;
   max-width: 1170px;
-  margin: 0 auto;
+}
+
+img {
+  height: 250px;
+  border-radius: 10px;
+}
+.py_40 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.py_40 h1 {
+  font-weight: bold;
+  color: white;
+}
+.py_40 span {
+  font-weight: bold;
+  color: white;
+
+}
+
+.collapse a {
+  font-weight: bold;
+}
+.navbar-header a {
+  font-weight: bold;
+}
+
+.container_sm {
+  max-width: 980px;
+  margin: auto;
+}
+
+#about {
+  background-color: #1abc9c;
+  color: white;
+}
+#about h2 {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  font-weight: bold;
+  font-size: 50px;
+}
+#about p {
+  font-size: 20px;
+  padding: 50px;
+}
+#about a {
+  font-size: 20px;
+  padding: 20px;
+  color: white;
+  border: 2px solid white;
+  border-radius: 10px;
+}
+#about img {
+  height: 25px;
+  padding-right: 10px;
+}
+
+#portfolio h2 {
+  padding-top: 100px;
+  font-weight: bold;
+  font-size: 50px;
+}
+
+#contact-me h2 {
+  padding: 100px;
+  font-weight: bold;
+  font-size: 50px;
+}
+#contact-me a {
+  font-size: 20px;
+  padding: 20px;
+  background: #1abc9c;
+  border-radius: 10px;
+  color: white;
+}
+
+.button {
+  height: 50px;
+  width: 500px;
+  font-size: 25px;
+  border: none;
+}
+
+footer h2 {
+  padding: 50px;
+  font-weight: bold;
+  font-size: 35px;
+}
+footer p {
+  font-weight: bold;
+  font-size: 20px;
+}
+footer img {
+  height: 25px;
+  padding-right: 10px;
+}
+.copyright {
+  font-weight: bold;
+  font-size: 15px;
 }
